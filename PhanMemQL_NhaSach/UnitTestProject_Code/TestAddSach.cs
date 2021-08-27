@@ -16,7 +16,7 @@ namespace UnitTestProject_Code
             this.Sach = new frmQLSach();
         }
         [TestMethod]
-        [TestCategory("Passs")]
+        [TestCategory("Passed")]
         public void TC1_TestAddSach()
         {
             string maSach = "SH11";
@@ -26,10 +26,34 @@ namespace UnitTestProject_Code
             string maNXB = "NXB1";
             string maTL = "TL1";
             string soLuong = "20";
-            int input = TamGiacTest1.kiemTra(num1, num2, num3);
-            sach.
-            string Expected = "Thêm thành công !";
-            Assert.AreEqual(Expected, Sach.btnThem_Click, "Loi xay ra");
+            bool input = Sach.themSach(maSach, maNXB, maTGia, maTL, tenSach, soLuong, giaSach);
+            bool Expected = true;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+        }
+        [TestMethod]
+        [TestCategory("Failed")]
+        public void TC2_TestAddSach()
+        {
+            string maSach = "SH1";
+            string tenSach = "Sách TC 1";
+            string giaSach = "150000";
+            string maTGia = "TG1";
+            string maNXB = "NXB1";
+            string maTL = "TL1";
+            string soLuong = "20";
+            bool input = Sach.themSach(maSach, maNXB, maTGia, maTL, tenSach, soLuong, giaSach);
+            bool Expected = true;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+        }
+        [TestMethod]
+        [TestCategory("Passed")]
+        public void TC3_TestDeleteSach()
+        {
+            string maSach = "SH11";
+            
+            bool input = Sach.xoaSach(maSach);
+            bool Expected = true;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
         }
     }
 }

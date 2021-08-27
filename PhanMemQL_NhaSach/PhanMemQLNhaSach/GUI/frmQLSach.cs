@@ -24,6 +24,7 @@ namespace PhanMemQLNhaSach
 
         public void btnThem_Click(object sender, EventArgs e)
         {
+
             if (txtID.Text.Trim().Length == 0)
             {
                 MessageBox.Show("Vui nhập chọn mã sách");
@@ -40,25 +41,28 @@ namespace PhanMemQLNhaSach
 
             }
             string strSQL = "select count(*) from sach where masach='" + txtID.Text.Trim() + "'";
-            else if (Conn.KiemTraTrung(strSQL))
+            if (Conn.KiemTraTrung(strSQL))
             {
                 MessageBox.Show("Mã đã tồn tại  " + txtID.Text.Trim() + ". Vui lòng nhập mã khác");
                 txtID.Clear();
                 txtID.Focus();
             }
-
+            else if (themSach(txtID.Text, cbNXB.SelectedValue.ToString(), cboTacGia.SelectedValue.ToString(), cboMaLoai.SelectedValue.ToString(), txtTenSach.Text, txtSoLuong.Text, txtGia.Text) == true)
+            {
+                LoadDL();
+                MessageBox.Show("Thêm thành công !");
+            }
+            else
+            {
+                MessageBox.Show("Thêm thất bại !");
+            }
         }
         public bool themSach(string maSach, string nXB, string tacGia, string maLoai, string tenSach, string soLuong, string gia)
         {
             try
             {
-
-
                 string strSQL = "insert into sach values('" + maSach + "',N'" + nXB + "',N'" + tacGia + "',N'" + maLoai + "',N'" + tenSach + "','" + soLuong + "','" + gia + "')";
                 Conn.updateDatabase(strSQL);
-
-
-
                 return true;
             }
             catch
@@ -68,34 +72,45 @@ namespace PhanMemQLNhaSach
         }
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if (txtID.Text.Trim().Length == 0)
+            {
+                MessageBox.Show("Vui lòng nhập mã sách");
+                return;
+            }
+
+            string strSQL = "select count(*) from sach where masach='" + txtID.Text.Trim() + "'";
+            if (!Conn.KiemTraTrung(strSQL))
+            {
+                MessageBox.Show("Không Có mã sách " + txtID.Text.Trim() + ". Để Xóa");
+                txtID.Clear();
+                txtID.Focus();
+                return;
+            }
+            if (xoaSach(txtID.Text))
+            {
+                LoadDL();
+                MessageBox.Show("Xóa thành công !");
+            }
+            else
+            {
+                MessageBox.Show("Xóa thất bại !");
+            }
+
+
+        }
+        public bool xoaSach(string maSach)
+        {
             try
             {
-                if (txtID.Text.Trim().Length == 0)
-                {
-                    MessageBox.Show("Vui lòng nhập mã sách");
-                    return;
-                }
-
-                string strSQL = "select count(*) from sach where masach='" + txtID.Text.Trim() + "'";
-                if (!Conn.KiemTraTrung(strSQL))
-                {
-                    MessageBox.Show("Không Có mã sách " + txtID.Text.Trim() + ". Để Xóa");
-                    txtID.Clear();
-                    txtID.Focus();
-                    return;
-                }
-                strSQL = "Delete sach where masach='" + txtID.Text.Trim() + "'";
+                string strSQL = "Delete sach where masach='" + maSach + "'";
                 Conn.updateDatabase(strSQL);
-                MessageBox.Show("Xóa thành công");
-                LoadDL();
-
+                return true;
             }
             catch
             {
-                MessageBox.Show("Xóa Thất bại");
+                return false;
             }
         }
-
         private void btnSua_Click(object sender, EventArgs e)
         {
             try
