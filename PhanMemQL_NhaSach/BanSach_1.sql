@@ -188,7 +188,7 @@ INSERT INTO KHACHHANG VALUES('KH5',N'Nguyễn heo con','2000/01/01',N'nữ','123
 
 select * from Sach
 
-
+Delete from sach where masach=''
 
 
 select * from HOADON
