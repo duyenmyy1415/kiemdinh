@@ -1,0 +1,97 @@
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe.config
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csprojResolveAssemblyReference.cache
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmBanHang.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmDangNhap.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmMain.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLKHo.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLNhanVien.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLSach.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThanhToan.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThongKe.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.Properties.Resources.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.GenerateResource.Cache
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.pdb
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.dll
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.pdb
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.exe
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.pdb
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmNhapSach.resources
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmLoaiSach.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe.config
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.exe
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.pdb
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.pdb
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.dll
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.pdb
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csprojResolveAssemblyReference.cache
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmBanHang.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmDangNhap.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmLoaiSach.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmMain.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmNhapSach.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLKHo.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLNhanVien.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLSach.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThanhToan.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThongKe.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.Properties.Resources.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.GenerateResource.Cache
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmTacGia.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmKhachHang.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmHoaDon.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmPhieuNhap.resources
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmNhaXuatBan.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe.config
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.exe
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.pdb
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.pdb
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.dll
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.pdb
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csprojResolveAssemblyReference.cache
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmBanHang.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmDangNhap.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmHoaDon.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmKhachHang.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmLoaiSach.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmMain.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmNhapSach.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmNhaXuatBan.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmPhieuNhap.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLKHo.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLNhanVien.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLSach.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmTacGia.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThanhToan.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThongKe.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.Properties.Resources.resources
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.GenerateResource.Cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe.config
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.exe
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\PhanMemQLNhaSach.pdb
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.dll
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\bin\Debug\ClassLibrary1.pdb
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csprojAssemblyReference.cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmBanHang.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmDangNhap.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmHoaDon.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmKhachHang.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmLoaiSach.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmMain.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmNhapSach.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmNhaXuatBan.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.GUI.frmPhieuNhap.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLKHo.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLNhanVien.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmQLSach.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmTacGia.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThanhToan.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.frmThongKe.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.Properties.Resources.resources
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.GenerateResource.cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.CoreCompileInputs.cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.csproj.CopyComplete
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.exe
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\PhanMemQLNhaSach\obj\Debug\PhanMemQLNhaSach.pdb

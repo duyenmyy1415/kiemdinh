@@ -1,0 +1,21 @@
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\DoAnDocNet\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Kiểm Định Phần Mềm\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\PTTK HTTT\DoAn_PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\HUFI\Kiểm Định Phần Mềm\PhanMemQL_NhaSach\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
