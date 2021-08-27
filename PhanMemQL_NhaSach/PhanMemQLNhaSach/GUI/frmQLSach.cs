@@ -148,26 +148,50 @@ namespace PhanMemQLNhaSach
         }
         private void btnTim_Click(object sender, EventArgs e)
         {
+            if (timSach(txtTenSach.Text))
+            {
+              
+                DataSet ds_sach = new DataSet();
+                Conn.Danhsach.Fill(ds_sach);
+                dataGridView1.DataSource = ds_sach.Tables[0];
+                dataGridView1.Refresh();
+            }
+            else
+            {
+                MessageBox.Show("Tìm thất bại !");
+            }
+        }
+        public bool timSach(string tenSach)
+        {
             try
             {
                 string cbTen = txtTim.Text.Trim();
                 string strSQL = "";
                 strSQL = "select * from sach where tensach like N'" + cbTen + "%'";
                 Conn.truyvanDL(strSQL);
-                DataSet ds_sach = new DataSet();
-                Conn.Danhsach.Fill(ds_sach);
-                dataGridView1.DataSource = ds_sach.Tables[0];
-                dataGridView1.Refresh();
-
+                //DataSet ds_sach = new DataSet();
+                //Conn.Danhsach.Fill(ds_sach);
+                //dataGridView1.DataSource = ds_sach.Tables[0];
+                //dataGridView1.Refresh();
+                return true;
             }
             catch
             {
-                MessageBox.Show("tìm kiếm  Thất bại");
+                return false;
             }
         }
         public void LoadDL()
         {
             string sql = "select * from sach";
+            Conn.truyvanDL(sql);
+            DataSet ds_sach = new DataSet();
+            Conn.Danhsach.Fill(ds_sach);
+            dataGridView1.DataSource = ds_sach.Tables[0];
+            dataGridView1.Refresh();
+        }
+        public void LoadDLTimSach(string tenSach)
+        {
+            string sql = "select * from sach where tensach like N'" + tenSach + "%'";
             Conn.truyvanDL(sql);
             DataSet ds_sach = new DataSet();
             Conn.Danhsach.Fill(ds_sach);

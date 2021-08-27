@@ -95,6 +95,29 @@ namespace UnitTestProject_Code
             bool input = Sach.suaSach(maSach, maNXB, maTGia, maTL, tenSach, soLuong, giaSach);
             bool Expected = false;
             Assert.AreEqual(Expected, input, "Loi xay ra");
+
+        }
+        [TestMethod]
+        [TestCategory("Passed")]
+        public void TC7_TestFindSach()
+        {
+           
+            string tenSach = "sách văn học";
+            
+            bool input = Sach.timSach(tenSach);
+            bool Expected = true;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+
+        }
+        [TestMethod]
+        [TestCategory("Failed")]
+        public void TC8_TestFindSach()
+        {
+            string tenSach = "sách văn học";
+            bool input = Sach.timSach(tenSach);
+            bool Expected = false;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+
         }
     }
 }
