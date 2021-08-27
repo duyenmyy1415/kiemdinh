@@ -113,29 +113,39 @@ namespace PhanMemQLNhaSach
         }
         private void btnSua_Click(object sender, EventArgs e)
         {
+
+
+            string strSQL = "select count(*) from sach where masach='" + txtID.Text.Trim() + "'";
+            if (!Conn.KiemTraTrung(strSQL))
+            {
+                MessageBox.Show("Không Có mã sách " + txtID.Text.Trim() + ". Để sửa");
+                txtID.Clear();
+                txtID.Focus();
+                return;
+            }
+            if (suaSach(txtID.Text, cbNXB.SelectedValue.ToString(), cboTacGia.SelectedValue.ToString(), cboMaLoai.SelectedValue.ToString(), txtTenSach.Text, txtSoLuong.Text, txtGia.Text))
+            {
+                MessageBox.Show("Sửa thành công !");
+                LoadDL();
+            }
+            else
+            {
+                MessageBox.Show("Sửa thất bại !");
+            }
+        }
+        public bool suaSach(string maSach, string nXB, string tacGia, string maLoai, string tenSach, string soLuong, string gia)
+        {
             try
             {
-
-                string strSQL = "select count(*) from sach where masach='" + txtID.Text.Trim() + "'";
-                if (!Conn.KiemTraTrung(strSQL))
-                {
-                    MessageBox.Show("Không Có mã sách " + txtID.Text.Trim() + ". Để sửa");
-                    txtID.Clear();
-                    txtID.Focus();
-                    return;
-                }
-                strSQL = "Update sach set MANXB = N'" + cbNXB.SelectedValue.ToString() + "', MATG = N'" + cboTacGia.SelectedValue.ToString() + "', MATL = N'" + cboMaLoai.SelectedValue.ToString() + "', TENSACH =N'" + txtTenSach.Text.Trim() + "' , GIABAN = '" + txtGia.Text.Trim() + "', SOLUONG ='" + txtSoLuong.Text.Trim() + "'  where MASACH='" + txtID.Text.Trim() + "'";
+                string strSQL = "Update sach set MANXB = N'" + nXB + "', MATG = N'" + tacGia + "', MATL = N'" + maLoai + "', TENSACH =N'" + tenSach + "' , GIABAN = '" + gia + "', SOLUONG ='" + soLuong + "'  where MASACH='" + maSach + "'";
                 Conn.updateDatabase(strSQL);
-                MessageBox.Show("Cập nhật thành công");
-                LoadDL();
-
+                return true;
             }
             catch
             {
-                MessageBox.Show("Cập nhật Thất bại");
+                return false;
             }
         }
-
         private void btnTim_Click(object sender, EventArgs e)
         {
             try

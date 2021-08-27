@@ -55,5 +55,46 @@ namespace UnitTestProject_Code
             bool Expected = true;
             Assert.AreEqual(Expected, input, "Loi xay ra");
         }
+        [TestMethod]
+        [TestCategory("Failed")]
+        public void TC4_TestDeleteSach()
+        {
+            string maSach = "";
+
+            bool input = Sach.xoaSach(maSach);
+            bool Expected = false;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+        }
+
+        [TestMethod]
+        [TestCategory("Passed")]
+        public void TC5_TestUpdateSach()
+        {
+            string maSach = "SH11";
+            string tenSach = "Sách TC 5 update";
+            string giaSach = "150000";
+            string maTGia = "TG1";
+            string maNXB = "NXB1";
+            string maTL = "TL1";
+            string soLuong = "20";
+            bool input = Sach.suaSach(maSach, maNXB, maTGia, maTL, tenSach, soLuong, giaSach);
+            bool Expected = true;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+        }
+        [TestMethod]
+        [TestCategory("Failed")]
+        public void TC6_TestUpdateSach()
+        {
+            string maSach = "SH111111";
+            string tenSach = "Sách TC 5 update";
+            string giaSach = "150000";
+            string maTGia = "TG1";
+            string maNXB = "NXB1";
+            string maTL = "TL1";
+            string soLuong = "20";
+            bool input = Sach.suaSach(maSach, maNXB, maTGia, maTL, tenSach, soLuong, giaSach);
+            bool Expected = false;
+            Assert.AreEqual(Expected, input, "Loi xay ra");
+        }
     }
 }
