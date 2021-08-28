@@ -46,10 +46,10 @@ namespace ClassLibrary1
         public DBconnect()
         {
 
-            StrServerName = @"DESKTOP-GAJACTU\SQLEXPRESS";
+            StrServerName = @"WIN2K\WIN2K";
             StrDBName = "QLSACH_BANSACH";
             StrUser = "sa";
-            StrPassword = "taquangtrung";
+            StrPassword = "sa2012";
             StrConnect = "Data Source=" + StrServerName + "; Initial Catalog=" + StrDBName + "; User ID=" + StrUser + "; Password=" + StrPassword;
             Conn = new SqlConnection(StrConnect);
         }

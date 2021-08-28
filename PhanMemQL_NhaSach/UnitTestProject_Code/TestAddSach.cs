@@ -8,7 +8,7 @@ namespace UnitTestProject_Code
     {
         private frmQLSach sach;
 
-        public frmQLSach Sach { get => sach; set => sach = value; }
+        public frmQLSach Sach { get { return sach; } set { sach = value; } }
 
         [TestInitialize]
         public void TestInitialize()
@@ -19,7 +19,7 @@ namespace UnitTestProject_Code
         [TestCategory("Passed")]
         public void TC1_TestAddSach()
         {
-            string maSach = "SH11";
+            string maSach = "SH12";
             string tenSach = "Sách TC 1";
             string giaSach = "150000";
             string maTGia = "TG1";
@@ -49,8 +49,7 @@ namespace UnitTestProject_Code
         [TestCategory("Passed")]
         public void TC3_TestDeleteSach()
         {
-            string maSach = "SH11";
-            
+            string maSach = "SH12";       
             bool input = Sach.xoaSach(maSach);
             bool Expected = true;
             Assert.AreEqual(Expected, input, "Loi xay ra");

@@ -41,7 +41,7 @@ namespace PhanMemQLNhaSach
 
         private void btnLogin_Click_1(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-GAJACTU\SQLEXPRESS;Initial Catalog=QLSACH_BANSACH;Persist Security Info=True;User ID=sa;Password=taquangtrung");
+            SqlConnection conn = new SqlConnection(@"Data Source=WIN2K\WIN2K;Initial Catalog=QLSACH_BANSACH;Persist Security Info=True;User ID=sa;Password=sa2012");
             try
             {
                 conn.Open();
